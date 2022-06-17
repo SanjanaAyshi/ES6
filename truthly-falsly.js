@@ -7,7 +7,7 @@
 //NaN
 //truthy
 //'0'," ", [];
-let name=[];
+let name='false';
 if(name){
     console.log("it's true");
 }
